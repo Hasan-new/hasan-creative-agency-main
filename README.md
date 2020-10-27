@@ -11,10 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - javascript
   - React.js
   - MongoDB
-  - font Awesome
+  - Font Awesome
   - Node.js
   - Bootstrap
-  - Firebse auth
+  - Firebase auth
   - Heroku
   - Swiper.js
 
