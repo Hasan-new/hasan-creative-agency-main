@@ -7,4 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   I have used mongoDB for database. Admin can receive all orders form clients, can add more service, can add more admins. 
   All user can gives their orders and can give review. Users also can upload an image.  
 
+  # Technology
+  - javascript
+  - React.js
+  - mongoDB
+  - font Awesome
+  - Node.js
+  - Bootstrap
+  - Firebse auth
+  - Heroku
+  - Swiper.js
+
+  
+
  
