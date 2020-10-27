@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   # Technology
   - javascript
   - React.js
-  - mongoDB
+  - MongoDB
   - font Awesome
   - Node.js
   - Bootstrap
@@ -18,6 +18,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Heroku
   - Swiper.js
 
-  
+
 
  
