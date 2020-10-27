@@ -17,6 +17,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Firebase auth
   - Heroku
   - Swiper.js
+  - react-dom
+  - react-dropdown
+  - react-hook-form
+  - react-router-dom
+  - react-scripts
 
 
 
